@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Inter";
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,13 +7,6 @@ body {
     margin: 0;
     background-color: #3b4252;
 }
-
-/* .calculator {
-    background-color: #2e3440;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-} */
 
 .calculator .display {
     background-color: #181F32;
