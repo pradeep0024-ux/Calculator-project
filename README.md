@@ -17,4 +17,3 @@ Open the deployed link.
 Enter numbers using the calculator's interface.
 Select the desired operation (e.g., addition, subtraction).
 View the result displayed on the screen.
-
